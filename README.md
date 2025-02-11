@@ -16,11 +16,11 @@ This project develops a predictive model for individual cost of living by analyz
 - others TBD
 
 ### Transportation
-- Bureau of Labor Statistics Gasoline All-types, measured by region (West, Midwest, South, Northeast) and Size class (A, B, C), seasonally unadjusted
+- Bureau of Labor Statistics; Consumer Price Index - "Gasoline All-types, measured by region" (West, Midwest, South, Northeast) and Size class (A, B, C), seasonally unadjusted
 - others TBD
 
 ### Grocery
-- TBD
+- Bureau of Labor Statistics; Consumer Expenditure Survey
 
 ### Insurance
 - TBD
