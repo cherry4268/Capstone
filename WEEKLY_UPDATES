@@ -1,0 +1,8 @@
+## WEEKLY UPDATE 2
+This week I collected more data and began to normalize the datasets. The new datasets are from the Bureau of Labor Statistics CPI data. 
+In terms of normalization, I'm experimenting with STL Decomposition which will give me a breakdown of seasonal, trend, and remainder (residual) outliers. 
+I'm also utilizing X-13ARIMA-SEATS, which is a package used by the US Census Bureau specifically for seasonal adjustment including holidays, weather phenomena, etc. 
+The normalization I'm doing in R-studio since the package for X-13ARIMA-SEATS is included with R-studio and is difficult to install otherwise. 
+I plan to replace the data currently sitting in my github repo with the seasonally adjusted data once I'm done. 
+Some datasets from the grocery folder such as as "cereal_bakery" or "fish_seafood" need to be removed but all datasets I'm currently planning on using are up-to-date in the READ.me
+
