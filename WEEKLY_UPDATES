@@ -1,3 +1,15 @@
+## WEEKLY UPDATE 3 - This week I talked with an expert on regional price data about my datasets and she recommended an entirely new food dataset from a website called
+map the meal. This website tracks data on food insecure individuals, but also provides an annual report of what a single meal would cost per country. This data is already
+cleaned and seasonally adjusted, so I wouldn't have to worry about adjusting the data like I was last week. She also helped talk me through what aggregating the data would 
+look like for my other datasets since they are recorded by month. I'm also adding utilities as one of my predictors, also from the Bureau of Labor Statistics.
+me through what aggregating the data should look like.
+
+
+
+
+
+
+
 ## WEEKLY UPDATE 2 - I had uploaded this content much earlier on Monday to Blackboard but added it here later
 This week I collected more data and began to normalize the datasets. The new datasets are from the Bureau of Labor Statistics CPI data. 
 In terms of normalization, I'm experimenting with STL Decomposition which will give me a breakdown of seasonal, trend, and remainder (residual) outliers. 
