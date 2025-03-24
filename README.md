@@ -5,7 +5,7 @@ DATS 4001 Capstone - Cherry Kuruppacherry
 This project develops a predictive model for individual cost of living by analyzing key expense categories including housing, transportation, grocery, and a few insurance costs. The analysis uses multi-variable techniques to understand how different factors contribute to living expenses across different regions in the United States.
 
 ## Project Objectives
-- Develop predictive models for cost of living expenses
+- Develop predictive models for cost of living expenses - based on years 2015-2022
 - Analyze regional and geographic trends in living costs
 - Create Benchmarks for location-based decision-making
 - Heatmap interactive display
@@ -16,15 +16,20 @@ This project develops a predictive model for individual cost of living by analyz
 - others TBD
 
 ### Transportation
-- Bureau of Labor Statistics; Consumer Price Index - "Gasoline All-types, measured by region" (West, Midwest, South, Northeast) and Size class (A, B, C), seasonally unadjusted
-- Bureau of Labor Statistics; Consumer Price Index - "Transportation" - measured by region (West, Midwest, South, Northeast) and Size class (A, B, C), seasonally unadjusted
+- National Association of Insurance Commissioners; "Auto Insurance Database Report" both for 2017/2018 and 2022 to cover years 2015-2022, measures combined average premium
+   - https://content.naic.org/article/news-release-naic-releases-2017-2018-auto-insurance-database-report
+   - https://content.naic.org/article/naic-releases-latest-auto-insurance-database-average-premium-supplement
 
 ### Grocery
-- Bureau of Labor Statistics; Consumer Price Index - "Food and Beverage" - measured by region (West, Midwest, South, Northeast) and Size class (A, B, C), seasonally unadjusted
-- Bureau of Labor Statistics; Consumer Price Index - "Food away from home" - measured by region (West, Midwest, South, Northeast) and Size class (A, B, C), seasonally unadjusted
+- Map the Meal; includes average cost of a meal per state,  Weighted weekly $ needed by FI, and  Weighted Annual Food Budget Shortfall
+   - https://map.feedingamerica.org/
 
-### Insurance
-- TBD
+### Utilities
+- Energy; US Energy Information Administration - Average Price of Electricity to Ultimate Customers by End-Use Sector, by State, Year-to-Date October (Cents per Kilowatthour)
+   - https://www.eia.gov/electricity/monthly/
+- Natural gas; US Energy Information Administration - residential Natural Gas price (Dollars per Thousand Cubic Feet)
+   - https://www.eia.gov/dnav/ng/ng_pri_sum_a_EPG0_PRS_DMcf_a.htm
+- others like water, telecomm, etc. to be included
 
 ## Methodology
 ### Data Collection & Preparation
