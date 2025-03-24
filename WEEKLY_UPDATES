@@ -1,0 +1,38 @@
+## WEEKLY UPDATE 5 - I am now working on model selection. Here are some current ideas:
+- fixed effects panel mode; handles time-invariant heterogeneity, not great for complex non-linearities | ASSUMES: exogeneity, homoskedasticity
+- random effects panel model; more efficient than fixed effects but stricter assumptions | ASSUMES: random effects are uncorrelated with explanatory variables
+- panel vector autoregression; captures dynamic relations between multiple time series but LOTS to calculate, many parameters | ASSUMES: stationarity, homogenous dynamics across similar states
+- ADL: captures dynamic relations, can handle structural breaks but lots of parameters and potential overfitting | ASSUMES: no autocorrelation, correct lag specification, stationarity
+- GBM/XG Boost; excellent with temporal data, handles non-linearities and interactions, robust to outliers but needs hyperparameter-tuning | ASSUMES: sufficient data
+- Random Forest with Time Features; same as above but less prone to overfitting BUT can't extrapolate beyond training range much
+
+I'm currently leaning towards a 2-stage hybrid model:
+- stage 1; Panel ADL with fixed effects - captures state-specific differences, dynamic relationships, lagged effects, and structural breaks
+- stage 2; GBM/XG Boost - model residuals from the first stage, captures more complex relationships
+
+## WEEKLY UPDATE 4 - I forgot to do this earlier, but I've made significant changes to the data criteria after extensive searching and limited results. 
+- Due to the lack of robust data for the last few years, I am now using data from 2015-2022 to predict future prices. I chose this time range because it includes time
+  pre-COVID to ensure I'm not using exaggerated prices from those years. This will also help me to check how accurate my predictive model is as I can check it against 
+  the data that does exist for 2023 and 2024.
+- My data now covers housing, food, transportation, and utilities. The food dataset comes from an expert in regional price data I contacted. She uses the same source (map the meal)
+  to cover the average cost per meal by state annually. The transportation data is covered by average auto-insurance rates I found but will also include gas prices. Utilities will 
+  cover natural gas, electricity, water, telecomm communications, and garbage/waste removal. 
+I've done a bit of EDA within R studio to map out changes in prices over time. The data all look relatively normal and now that I'm working with annual data there is less of a concern for
+seasonality and there doesn't seem to be other significant trends that would need further normalization.
+
+
+## WEEKLY UPDATE 3 - This week I talked with an expert on regional price data about my datasets and she recommended an entirely new food dataset from a website called
+map the meal. This website tracks data on food insecure individuals, but also provides an annual report of what a single meal would cost per country. This data is already
+cleaned and seasonally adjusted, so I wouldn't have to worry about adjusting the data like I was last week. She also helped talk me through what aggregating the data would 
+look like for my other datasets since they are recorded by month. I'm also adding utilities as one of my predictors, also from the Bureau of Labor Statistics.
+me through what aggregating the data should look like.
+
+
+
+## WEEKLY UPDATE 2 - I had uploaded this content much earlier on Monday to Blackboard but added it here later
+This week I collected more data and began to normalize the datasets. The new datasets are from the Bureau of Labor Statistics CPI data. 
+In terms of normalization, I'm experimenting with STL Decomposition which will give me a breakdown of seasonal, trend, and remainder (residual) outliers. 
+I'm also utilizing X-13ARIMA-SEATS, which is a package used by the US Census Bureau specifically for seasonal adjustment including holidays, weather phenomena, etc. 
+The normalization I'm doing in R-studio since the package for X-13ARIMA-SEATS is included with R-studio and is difficult to install otherwise. 
+I plan to replace the data currently sitting in my github repo with the seasonally adjusted data once I'm done. 
+Some datasets from the grocery folder such as as "cereal_bakery" or "fish_seafood" need to be removed but all datasets I'm currently planning on using are up-to-date in the READ.me
