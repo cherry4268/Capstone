@@ -1,3 +1,7 @@
+## WEEKLY UPDATE 6 - 
+I've tried out a couple of the models with varying success; fixed effects panel model, ARDL panel model, and XGBoost. I've also added real Price Consumption Expenditure data
+from the BEA as my dependent variable and sort of cost of living index. I plan on trying out the rest of the models and then deciding which one works best.
+
 ## WEEKLY UPDATE 5 - I am now working on model selection. Here are some current ideas:
 - fixed effects panel mode; handles time-invariant heterogeneity, not great for complex non-linearities | ASSUMES: exogeneity, homoskedasticity
 - random effects panel model; more efficient than fixed effects but stricter assumptions | ASSUMES: random effects are uncorrelated with explanatory variables
