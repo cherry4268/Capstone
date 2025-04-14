@@ -1,3 +1,9 @@
+## WEEKLY UPDATE 7 -
+I've now tried out fixed effects panel model, ARDL panel model, XGBoost, Random Forest, and a basic linear regression. I've also included tests for each model's assumptions and
+adjusted my variables where it was necessary. I am now working on combining my top two, most likely the Fixed Effects as a first step and the XGBoost or Random Forest as the
+second step. I will now be focusing on incorporating this into my front end and developing a proper UI.
+
+
 ## WEEKLY UPDATE 6 - 
 I've tried out a couple of the models with varying success; fixed effects panel model, ARDL panel model, and XGBoost. I've also added real Price Consumption Expenditure data
 from the BEA as my dependent variable and sort of cost of living index. I plan on trying out the rest of the models and then deciding which one works best.
