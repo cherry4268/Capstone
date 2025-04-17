@@ -1,3 +1,9 @@
+### WEEKLY UPDATE 8 - 
+I've combined the ARDL panel model and XGBoost models as they had the best results in terms of accuracy and highest R-squared values. I have more in-depth documentation
+on why I chose these models along with notes on their short comings or areas where I had to tweak the variables. My next steps are to focus on the UI aspect. I haven't
+done much since building the initial map and since then some of the variables have changed. I also plan to do more work on my report. 
+
+
 ## WEEKLY UPDATE 7 -
 I've now tried out fixed effects panel model, ARDL panel model, XGBoost, Random Forest, and a basic linear regression. I've also included tests for each model's assumptions and
 adjusted my variables where it was necessary. I am now working on combining my top two, most likely the Fixed Effects as a first step and the XGBoost or Random Forest as the
