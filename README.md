@@ -17,6 +17,7 @@ This project develops a predictive model for individual cost of living by analyz
 
 ### Housing
 - Zillow Home Value Index (ZHVI); measures typical home values and market changes, covers 35th-65th percentile range, seasonally adjusted, measured by state
+   - https://www.zillow.com/research/data/
 
 ### Transportation
 - National Association of Insurance Commissioners; "Auto Insurance Database Report" both for 2017/2018 and 2022 to cover years 2015-2022, measures combined average premium
