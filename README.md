@@ -11,6 +11,10 @@ This project develops a predictive model for individual cost of living by analyz
 - Heatmap interactive display
 
 ## Data Sources
+### Cost of Living Indicator (real Personal Consumption Expenditure per Capita)
+- Bureau of Economic Analysis; real Personal Consumption Expenditure per Capita by state
+   - https://www.bea.gov/news/2024/real-personal-consumption-expenditures-state-and-real-personal-income-state-and
+
 ### Housing
 - Zillow Home Value Index (ZHVI); measures typical home values and market changes, covers 35th-65th percentile range, seasonally adjusted, measured by state
 
