@@ -13,23 +13,24 @@ This project develops a predictive model for individual cost of living by analyz
 ## Data Sources
 ### Housing
 - Zillow Home Value Index (ZHVI); measures typical home values and market changes, covers 35th-65th percentile range, seasonally adjusted, measured by state
-- others TBD
 
 ### Transportation
 - National Association of Insurance Commissioners; "Auto Insurance Database Report" both for 2017/2018 and 2022 to cover years 2015-2022, measures combined average premium
    - https://content.naic.org/article/news-release-naic-releases-2017-2018-auto-insurance-database-report
    - https://content.naic.org/article/naic-releases-latest-auto-insurance-database-average-premium-supplement
+- Bureau of Labor Statistics - Gasoline by census region (Midwest, Northeast, South, West)
+   - https://data.bls.gov/dataViewer/view/timeseries/CXU470111LB1103M
+   - https://data.bls.gov/dataViewer/view/timeseries/CXU470111LB1102M
+   - https://data.bls.gov/dataViewer/view/timeseries/CXU470111LB1104M
+   - https://data.bls.gov/dataViewer/view/timeseries/CXU470111LB1105M
 
 ### Grocery
 - Map the Meal; includes average cost of a meal per state,  Weighted weekly $ needed by FI, and  Weighted Annual Food Budget Shortfall
    - https://map.feedingamerica.org/
 
 ### Utilities
-- Energy; US Energy Information Administration - Average Price of Electricity to Ultimate Customers by End-Use Sector, by State, Year-to-Date October (Cents per Kilowatthour)
-   - https://www.eia.gov/electricity/monthly/
-- Natural gas; US Energy Information Administration - residential Natural Gas price (Dollars per Thousand Cubic Feet)
-   - https://www.eia.gov/dnav/ng/ng_pri_sum_a_EPG0_PRS_DMcf_a.htm
-- others like water, telecomm, etc. to be included
+- US Energy Information Administration State Energy Data System (SEDS)
+   - https://www.eia.gov/state/seds/seds-data-complete.php?sid=US
 
 ## Methodology
 ### Data Collection & Preparation

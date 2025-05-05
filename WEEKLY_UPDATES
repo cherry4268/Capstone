@@ -1,3 +1,17 @@
+#### WEEKLY UPDATE 9 -
+I realized some of my forecasts looked off the further away they were so I spent most of my time re-evaluating what went wrong. I've so far pieced together the issue isn't
+from my model but rather the coding logic. The issue is more so with my Panel ARDL model rather than my XGBoost model. In addition to this I've worked on my UI and have a basic
+set up but want to add more detail to it before it's finished. I've also started writing out the report.
+
+
+
+
+### WEEKLY UPDATE 8 - 
+I've combined the ARDL panel model and XGBoost models as they had the best results in terms of accuracy and highest R-squared values. I have more in-depth documentation
+on why I chose these models along with notes on their short comings or areas where I had to tweak the variables. My next steps are to focus on the UI aspect. I haven't
+done much since building the initial map and since then some of the variables have changed. I also plan to do more work on my report. 
+
+
 ## WEEKLY UPDATE 7 -
 I've now tried out fixed effects panel model, ARDL panel model, XGBoost, Random Forest, and a basic linear regression. I've also included tests for each model's assumptions and
 adjusted my variables where it was necessary. I am now working on combining my top two, most likely the Fixed Effects as a first step and the XGBoost or Random Forest as the
