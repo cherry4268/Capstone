@@ -1,0 +1,408 @@
+State,year,avg_price,Region
+Alabama,2016,136475.6964,South
+Alabama,2017,140432.9387,South
+Alabama,2018,146031.7971,South
+Alabama,2019,154145.5776,South
+Alabama,2020,166552.9416,South
+Alabama,2021,189393.2571,South
+Alabama,2022,213109.3833,South
+Alaska,2015,272547.7474,West
+Alaska,2016,279275.5804,West
+Alaska,2017,281510.5416,West
+Alaska,2018,285714.1055,West
+Alaska,2019,303063.0613,West
+Alaska,2020,314108.15,West
+Alaska,2021,330343.6421,West
+Alaska,2022,352881.1825,West
+Arizona,2015,200704.8744,West
+Arizona,2016,217446.8898,West
+Arizona,2017,232258.474,West
+Arizona,2018,249998.841,West
+Arizona,2019,267033.5603,West
+Arizona,2020,293056.9099,West
+Arizona,2021,362421.359,West
+Arizona,2022,437702.5872,West
+Arkansas,2015,123255.0673,South
+Arkansas,2016,129188.2667,South
+Arkansas,2017,133483.6698,South
+Arkansas,2018,138486.1045,South
+Arkansas,2019,143929.1158,South
+Arkansas,2020,152635.0491,South
+Arkansas,2021,172270.978,South
+Arkansas,2022,192442.8007,South
+California,2015,416048.6946,West
+California,2016,443880.9383,West
+California,2017,480414.9034,West
+California,2018,526244.8816,West
+California,2019,541400.2729,West
+California,2020,568052.1673,West
+California,2021,656803.6117,West
+California,2022,745788.4206,West
+Colorado,2015,285087.6775,West
+Colorado,2016,317681.8264,West
+Colorado,2017,346718.6605,West
+Colorado,2018,372612.5968,West
+Colorado,2019,390556.7023,West
+Colorado,2020,412413.425,West
+Colorado,2021,476444.4353,West
+Colorado,2022,547566.634,West
+Connecticut,2015,234773.5776,Northeast
+Connecticut,2016,237615.2574,Northeast
+Connecticut,2017,243257.0518,Northeast
+Connecticut,2018,248890.1223,Northeast
+Connecticut,2019,252082.2274,Northeast
+Connecticut,2020,263397.7841,Northeast
+Connecticut,2021,302731.8953,Northeast
+Connecticut,2022,337278.6605,Northeast
+Delaware,2015,230329.2515,South
+Delaware,2016,240895.3562,South
+Delaware,2017,250871.0512,South
+Delaware,2018,257639.1173,South
+Delaware,2019,264868.7804,South
+Delaware,2020,274432.4216,South
+Delaware,2021,314929.119,South
+Delaware,2022,351027.0526,South
+District of Columbia,2015,484298.1897,Other
+District of Columbia,2016,509862.073,Other
+District of Columbia,2017,531085.9512,Other
+District of Columbia,2018,559196.2723,Other
+District of Columbia,2019,574915.2968,Other
+District of Columbia,2020,599298.2771,Other
+District of Columbia,2021,634203.6584,Other
+District of Columbia,2022,646305.7122,Other
+Florida,2015,178834.1042,South
+Florida,2016,195804.2362,South
+Florida,2017,211641.3249,South
+Florida,2018,227763.6659,South
+Florida,2019,239640.2469,South
+Florida,2020,253811.6014,South
+Florida,2021,295686.1583,South
+Florida,2022,369482.1686,South
+Georgia,2015,151308.4711,South
+Georgia,2016,161322.7001,South
+Georgia,2017,171696.465,South
+Georgia,2018,186531.7423,South
+Georgia,2019,200277.3938,South
+Georgia,2020,215026.0161,South
+Georgia,2021,254060.3973,South
+Georgia,2022,305971.2603,South
+Hawaii,2015,507586.6182,West
+Hawaii,2016,537115.5772,West
+Hawaii,2017,568126.7874,West
+Hawaii,2018,596616.381,West
+Hawaii,2019,607395.8022,West
+Hawaii,2020,623746.8869,West
+Hawaii,2021,698119.6579,West
+Hawaii,2022,823079.3595,West
+Idaho,2015,184310.9123,West
+Idaho,2016,199715.6769,West
+Idaho,2017,217824.7178,West
+Idaho,2018,242975.1545,West
+Idaho,2019,271677.2796,West
+Idaho,2020,308777.6848,West
+Idaho,2021,411559.7173,West
+Idaho,2022,470275.9575,West
+Illinois,2015,161023.2537,Midwest
+Illinois,2016,168975.0399,Midwest
+Illinois,2017,176788.2239,Midwest
+Illinois,2018,184645.4978,Midwest
+Illinois,2019,189589.7076,Midwest
+Illinois,2020,196108.3537,Midwest
+Illinois,2021,216603.9195,Midwest
+Illinois,2022,237029.0247,Midwest
+Indiana,2015,120059.488,Midwest
+Indiana,2016,125808.7725,Midwest
+Indiana,2017,132952.7435,Midwest
+Indiana,2018,142476.0302,Midwest
+Indiana,2019,152299.6294,Midwest
+Indiana,2020,163963.2561,Midwest
+Indiana,2021,188622.1168,Midwest
+Indiana,2022,213981.4609,Midwest
+Iowa,2015,130266.6953,Midwest
+Iowa,2016,136529.0004,Midwest
+Iowa,2017,140901.6245,Midwest
+Iowa,2018,146738.4159,Midwest
+Iowa,2019,154063.2282,Midwest
+Iowa,2020,161462.1927,Midwest
+Iowa,2021,176542.4881,Midwest
+Iowa,2022,195289.0907,Midwest
+Kansas,2015,123109.4219,Midwest
+Kansas,2016,128505.0531,Midwest
+Kansas,2017,133274.8848,Midwest
+Kansas,2018,139802.3497,Midwest
+Kansas,2019,146655.5298,Midwest
+Kansas,2020,157793.7362,Midwest
+Kansas,2021,177269.7489,Midwest
+Kansas,2022,199187.9107,Midwest
+Kentucky,2015,111198.5154,South
+Kentucky,2016,116659.9607,South
+Kentucky,2017,122692.8611,South
+Kentucky,2018,130016.2072,South
+Kentucky,2019,137360.4196,South
+Kentucky,2020,147473.021,South
+Kentucky,2021,166712.7839,South
+Kentucky,2022,184864.8271,South
+Louisiana,2015,162536.557,South
+Louisiana,2016,168124.5671,South
+Louisiana,2017,167350.3125,South
+Louisiana,2018,169730.4566,South
+Louisiana,2019,175315.2261,South
+Louisiana,2020,183928.8574,South
+Louisiana,2021,193366.0311,South
+Louisiana,2022,203935.9785,South
+Maine,2015,181643.8118,Northeast
+Maine,2016,191043.0837,Northeast
+Maine,2017,203693.4093,Northeast
+Maine,2018,217210.7638,Northeast
+Maine,2019,227844.7147,Northeast
+Maine,2020,248367.8138,Northeast
+Maine,2021,299934.591,Northeast
+Maine,2022,345079.3426,Northeast
+Maryland,2015,271214.2647,South
+Maryland,2016,279115.3172,South
+Maryland,2017,289172.6691,South
+Maryland,2018,299360.1017,South
+Maryland,2019,309718.3684,South
+Maryland,2020,324366.1596,South
+Maryland,2021,362497.7232,South
+Maryland,2022,389734.4646,South
+Massachusetts,2015,336265.4236,Northeast
+Massachusetts,2016,357721.4994,Northeast
+Massachusetts,2017,381556.2787,Northeast
+Massachusetts,2018,405440.1497,Northeast
+Massachusetts,2019,416846.9308,Northeast
+Massachusetts,2020,438215.4864,Northeast
+Massachusetts,2021,498998.115,Northeast
+Massachusetts,2022,550464.5678,Northeast
+Michigan,2015,123426.7421,Midwest
+Michigan,2016,132283.9797,Midwest
+Michigan,2017,142244.0795,Midwest
+Michigan,2018,153305.7905,Midwest
+Michigan,2019,162934.4052,Midwest
+Michigan,2020,173409.2561,Midwest
+Michigan,2021,198934.8029,Midwest
+Michigan,2022,219308.2968,Midwest
+Minnesota,2015,191675.6382,Midwest
+Minnesota,2016,204449.0981,Midwest
+Minnesota,2017,218687.3674,Midwest
+Minnesota,2018,233504.6941,Midwest
+Minnesota,2019,245768.7977,Midwest
+Minnesota,2020,259666.4151,Midwest
+Minnesota,2021,291351.5428,Midwest
+Minnesota,2022,317134.3421,Midwest
+Mississippi,2015,119997.8647,South
+Mississippi,2016,125255.114,South
+Mississippi,2017,127052.4807,South
+Mississippi,2018,130071.664,South
+Mississippi,2019,134687.2249,South
+Mississippi,2020,141238.8999,South
+Mississippi,2021,157609.8391,South
+Mississippi,2022,173479.4624,South
+Missouri,2015,130694.1124,Midwest
+Missouri,2016,137878.7063,Midwest
+Missouri,2017,145464.0777,Midwest
+Missouri,2018,153672.5465,Midwest
+Missouri,2019,161387.9547,Midwest
+Missouri,2020,172272.1271,Midwest
+Missouri,2021,197721.1113,Midwest
+Missouri,2022,223036.3575,Midwest
+Montana,2015,211815.6844,West
+Montana,2016,223356.2568,West
+Montana,2017,233856.2932,West
+Montana,2018,247937.9955,West
+Montana,2019,261203.8705,West
+Montana,2020,282499.6214,West
+Montana,2021,351917.9521,West
+Montana,2022,425368.0605,West
+Nebraska,2015,138965.4812,Midwest
+Nebraska,2016,147002.6905,Midwest
+Nebraska,2017,155057.8027,Midwest
+Nebraska,2018,164772.1426,Midwest
+Nebraska,2019,173911.8609,Midwest
+Nebraska,2020,185619.8627,Midwest
+Nebraska,2021,209529.365,Midwest
+Nebraska,2022,232728.4054,Midwest
+Nevada,2015,205693.7641,West
+Nevada,2016,222661.7159,West
+Nevada,2017,243504.1512,West
+Nevada,2018,277578.285,West
+Nevada,2019,297425.0842,West
+Nevada,2020,308843.3955,West
+Nevada,2021,359159.9328,West
+Nevada,2022,430950.9774,West
+New Hampshire,2015,222790.9905,Northeast
+New Hampshire,2016,233421.5003,Northeast
+New Hampshire,2017,248074.1478,Northeast
+New Hampshire,2018,264838.5578,Northeast
+New Hampshire,2019,276784.0723,Northeast
+New Hampshire,2020,298021.5532,Northeast
+New Hampshire,2021,353797.5428,Northeast
+New Hampshire,2022,406567.9178,Northeast
+New Jersey,2015,297642.1588,Northeast
+New Jersey,2016,307302.1584,Northeast
+New Jersey,2017,317114.3962,Northeast
+New Jersey,2018,330724.5069,Northeast
+New Jersey,2019,343781.0352,Northeast
+New Jersey,2020,362876.2451,Northeast
+New Jersey,2021,412095.63,Northeast
+New Jersey,2022,455083.6913,Northeast
+New Mexico,2015,165944.8893,West
+New Mexico,2016,170083.7168,West
+New Mexico,2017,174639.5044,West
+New Mexico,2018,181353.2109,West
+New Mexico,2019,191141.1453,West
+New Mexico,2020,206211.8143,West
+New Mexico,2021,238181.8703,West
+New Mexico,2022,272159.26,West
+New York,2015,272909.0737,Northeast
+New York,2016,285232.0708,Northeast
+New York,2017,301374.8695,Northeast
+New York,2018,320632.1142,Northeast
+New York,2019,337587.7441,Northeast
+New York,2020,354188.6896,Northeast
+New York,2021,392603.0365,Northeast
+New York,2022,427943.6094,Northeast
+North Carolina,2015,159347.6292,South
+North Carolina,2016,167780.0325,South
+North Carolina,2017,177795.3818,South
+North Carolina,2018,189816.1069,South
+North Carolina,2019,201459.4314,South
+North Carolina,2020,216896.5363,South
+North Carolina,2021,255403.5488,South
+North Carolina,2022,303147.6075,South
+North Dakota,2015,217475.8588,Midwest
+North Dakota,2016,222073.7095,Midwest
+North Dakota,2017,218568.2138,Midwest
+North Dakota,2018,214709.1468,Midwest
+North Dakota,2019,216926.5047,Midwest
+North Dakota,2020,223808.2,Midwest
+North Dakota,2021,234360.4964,Midwest
+North Dakota,2022,250963.2305,Midwest
+Ohio,2015,118842.4774,Midwest
+Ohio,2016,124897.4896,Midwest
+Ohio,2017,131006.8587,Midwest
+Ohio,2018,139210.7663,Midwest
+Ohio,2019,147787.2154,Midwest
+Ohio,2020,158325.7298,Midwest
+Ohio,2021,180663.921,Midwest
+Ohio,2022,199720.5848,Midwest
+Oklahoma,2015,117092.5081,South
+Oklahoma,2016,120524.0864,South
+Oklahoma,2017,123812.4476,South
+Oklahoma,2018,128329.0131,South
+Oklahoma,2019,133755.3665,South
+Oklahoma,2020,143470.7328,South
+Oklahoma,2021,162962.3174,South
+Oklahoma,2022,185368.4498,South
+Oregon,2015,257759.9953,West
+Oregon,2016,290351.9647,West
+Oregon,2017,318367.8845,West
+Oregon,2018,340438.9145,West
+Oregon,2019,353738.3705,West
+Oregon,2020,375373.2628,West
+Oregon,2021,439658.4831,West
+Oregon,2022,491412.2161,West
+Pennsylvania,2015,156352.87,Northeast
+Pennsylvania,2016,161210.3101,Northeast
+Pennsylvania,2017,167168.6266,Northeast
+Pennsylvania,2018,175208.8004,Northeast
+Pennsylvania,2019,182606.2185,Northeast
+Pennsylvania,2020,194866.5424,Northeast
+Pennsylvania,2021,220022.3347,Northeast
+Pennsylvania,2022,240348.4963,Northeast
+Rhode Island,2015,228007.4688,Northeast
+Rhode Island,2016,242153.6899,Northeast
+Rhode Island,2017,259854.5296,Northeast
+Rhode Island,2018,277889.825,Northeast
+Rhode Island,2019,287870.6408,Northeast
+Rhode Island,2020,306769.4425,Northeast
+Rhode Island,2021,356324.0723,Northeast
+Rhode Island,2022,399374.8801,Northeast
+South Carolina,2015,151225.2187,South
+South Carolina,2016,159957.3915,South
+South Carolina,2017,167626.8433,South
+South Carolina,2018,177395.8679,South
+South Carolina,2019,186684.53,South
+South Carolina,2020,199453.5864,South
+South Carolina,2021,229579.8695,South
+South Carolina,2022,271258.6752,South
+South Dakota,2015,167636.0904,Midwest
+South Dakota,2016,175643.5179,Midwest
+South Dakota,2017,183085.7132,Midwest
+South Dakota,2018,191769.1867,Midwest
+South Dakota,2019,201288.9449,Midwest
+South Dakota,2020,213910.1513,Midwest
+South Dakota,2021,243401.5077,Midwest
+South Dakota,2022,281113.8384,Midwest
+Tennessee,2015,147087.4288,South
+Tennessee,2016,157484.0611,South
+Tennessee,2017,169390.8802,South
+Tennessee,2018,181786.1118,South
+Tennessee,2019,194508.9164,South
+Tennessee,2020,211017.9245,South
+Tennessee,2021,245876.3945,South
+Tennessee,2022,292861.7044,South
+Texas,2015,164633.5089,South
+Texas,2016,177257.3044,South
+Texas,2017,188893.4422,South
+Texas,2018,200659.7958,South
+Texas,2019,209798.5369,South
+Texas,2020,220980.8674,South
+Texas,2021,253307.4404,South
+Texas,2022,298451.5655,South
+Utah,2015,238209.826,West
+Utah,2016,260700.7544,West
+Utah,2017,283210.5526,West
+Utah,2018,309871.1139,West
+Utah,2019,333950.5288,West
+Utah,2020,363795.978,West
+Utah,2021,446824.4294,West
+Utah,2022,523454.9064,West
+Vermont,2015,221868.5276,Northeast
+Vermont,2016,224974.1196,Northeast
+Vermont,2017,235034.0822,Northeast
+Vermont,2018,245283.7755,Northeast
+Vermont,2019,251610.3514,Northeast
+Vermont,2020,265762.2355,Northeast
+Vermont,2021,307060.4249,Northeast
+Vermont,2022,348190.8819,Northeast
+Virginia,2015,236022.3961,South
+Virginia,2016,242862.8728,South
+Virginia,2017,251410.8177,South
+Virginia,2018,260754.8791,South
+Virginia,2019,270452.6441,South
+Virginia,2020,285973.8207,South
+Virginia,2021,321474.9687,South
+Virginia,2022,353709.6308,South
+Washington,2015,274499.3953,West
+Washington,2016,305122.4763,West
+Washington,2017,338598.7206,West
+Washington,2018,373827.4353,West
+Washington,2019,393317.5129,West
+Washington,2020,427561.8762,West
+Washington,2021,508233.4256,West
+Washington,2022,578451.6519,West
+West Virginia,2015,103903.6813,South
+West Virginia,2016,106671.5331,South
+West Virginia,2017,107577.8507,South
+West Virginia,2018,111232.076,South
+West Virginia,2019,113771.3783,South
+West Virginia,2020,118804.9411,South
+West Virginia,2021,134848.3907,South
+West Virginia,2022,146505.8687,South
+Wisconsin,2015,158289.6322,Midwest
+Wisconsin,2016,166306.5201,Midwest
+Wisconsin,2017,175969.2245,Midwest
+Wisconsin,2018,187141.8479,Midwest
+Wisconsin,2019,198907.7666,Midwest
+Wisconsin,2020,212419.6697,Midwest
+Wisconsin,2021,240121.3102,Midwest
+Wisconsin,2022,263658.9292,Midwest
+Wyoming,2015,222513.3544,West
+Wyoming,2016,229432.3076,West
+Wyoming,2017,230270.9767,West
+Wyoming,2018,234013.8187,West
+Wyoming,2019,244549.4048,West
+Wyoming,2020,260250.8295,West
+Wyoming,2021,286473.7594,West
+Wyoming,2022,317169.4772,West

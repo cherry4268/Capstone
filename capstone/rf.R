@@ -1,6 +1,8 @@
 # libraries
 library(randomForest)
 library(Metrics)
+library(plm)
+
 
 # upload panel data
 pdata <- read.csv("Capstone/capstone/panel_data.csv", check.names = FALSE)

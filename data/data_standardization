@@ -1,0 +1,120 @@
+1. house_own
+What it represents: Estimated total annual homeownership cost (includes mortgage, insurance, taxes, maintenance).
+
+Source: Zillow Total Monthly Payment dataset (smoothed & seasonally adjusted, assuming 20% down payment).
+
+Original Unit: USD per month.
+
+Formula:
+
+Annual Cost
+=
+Monthly Total Payment
+×
+12
+Annual Cost=Monthly Total Payment×12
+
+
+
+2. house_rent
+What it represents: Estimated total annual rental cost.
+
+Source: Zillow Observed Rent Index (ZORI) for all homes + multifamily.
+
+Original Unit: USD per month.
+
+Formula:
+
+Annual Rent Cost
+=
+Monthly Rent
+×
+12
+Annual Rent Cost=Monthly Rent×12
+
+
+
+3. auto
+What it represents: Average annual auto insurance premium.
+
+Source: NAIC Auto Insurance Database Report (2015–2022).
+
+Original Unit: USD per year.
+
+Formula:
+
+Already in annual units, no transformation needed.
+
+Only formatting: removed leading "X" from years and converted values with commas to numeric.
+
+
+
+
+
+4. food
+What it represents: Annual cost of meals for an individual eating 3 meals a day, 365 days/year.
+
+Source: Map the Meal Gap (Feeding America).
+
+Original Unit: USD per meal.
+
+Formula:
+
+Annual Food Cost
+=
+Cost per Meal
+×
+3
+×
+365
+Annual Food Cost=Cost per Meal×3×365
+
+
+
+
+5. electricity
+What it represents: Annual residential electricity cost per household.
+
+Source: U.S. Energy Information Administration (EIA) — average residential price of electricity in cents per kilowatt-hour.
+
+Original Unit: Cents/kWh.
+
+Formula:
+
+Annual Electricity Cost
+=
+(
+Price per kWh
+100
+)
+×
+10,632
+Annual Electricity Cost=( 
+100
+Price per kWh
+​
+ )×10,632
+Where 10,632 kWh/year = average U.S. household consumption.
+
+
+
+
+6. natural_gas
+What it represents: Annual residential natural gas cost per household.
+
+Source: EIA — average residential price in dollars per 1,000 cubic feet.
+
+Original Unit: USD per 1,000 cubic feet.
+
+Formula:
+
+Annual Gas Cost
+=
+Price per 1,000 ft
+3
+×
+60
+Annual Gas Cost=Price per 1,000 ft 
+3
+ ×60
+Where 60,000 ft³/year = average U.S. household natural gas usage.

@@ -1,0 +1,409 @@
+"Year","State","Region","Price"
+2015,"Maine","Northeast",1706
+2016,"Maine","Northeast",1492
+2017,"Maine","Northeast",1628
+2018,"Maine","Northeast",1730
+2019,"Maine","Northeast",1681
+2020,"Maine","Northeast",1268
+2021,"Maine","Northeast",1722
+2022,"Maine","Northeast",2437
+2015,"New Hampshire","Northeast",1706
+2016,"New Hampshire","Northeast",1492
+2017,"New Hampshire","Northeast",1628
+2018,"New Hampshire","Northeast",1730
+2019,"New Hampshire","Northeast",1681
+2020,"New Hampshire","Northeast",1268
+2021,"New Hampshire","Northeast",1722
+2022,"New Hampshire","Northeast",2437
+2015,"Vermont","Northeast",1706
+2016,"Vermont","Northeast",1492
+2017,"Vermont","Northeast",1628
+2018,"Vermont","Northeast",1730
+2019,"Vermont","Northeast",1681
+2020,"Vermont","Northeast",1268
+2021,"Vermont","Northeast",1722
+2022,"Vermont","Northeast",2437
+2015,"Massachusetts","Northeast",1706
+2016,"Massachusetts","Northeast",1492
+2017,"Massachusetts","Northeast",1628
+2018,"Massachusetts","Northeast",1730
+2019,"Massachusetts","Northeast",1681
+2020,"Massachusetts","Northeast",1268
+2021,"Massachusetts","Northeast",1722
+2022,"Massachusetts","Northeast",2437
+2015,"Rhode Island","Northeast",1706
+2016,"Rhode Island","Northeast",1492
+2017,"Rhode Island","Northeast",1628
+2018,"Rhode Island","Northeast",1730
+2019,"Rhode Island","Northeast",1681
+2020,"Rhode Island","Northeast",1268
+2021,"Rhode Island","Northeast",1722
+2022,"Rhode Island","Northeast",2437
+2015,"Connecticut","Northeast",1706
+2016,"Connecticut","Northeast",1492
+2017,"Connecticut","Northeast",1628
+2018,"Connecticut","Northeast",1730
+2019,"Connecticut","Northeast",1681
+2020,"Connecticut","Northeast",1268
+2021,"Connecticut","Northeast",1722
+2022,"Connecticut","Northeast",2437
+2015,"New York","Northeast",1706
+2016,"New York","Northeast",1492
+2017,"New York","Northeast",1628
+2018,"New York","Northeast",1730
+2019,"New York","Northeast",1681
+2020,"New York","Northeast",1268
+2021,"New York","Northeast",1722
+2022,"New York","Northeast",2437
+2015,"New Jersey","Northeast",1706
+2016,"New Jersey","Northeast",1492
+2017,"New Jersey","Northeast",1628
+2018,"New Jersey","Northeast",1730
+2019,"New Jersey","Northeast",1681
+2020,"New Jersey","Northeast",1268
+2021,"New Jersey","Northeast",1722
+2022,"New Jersey","Northeast",2437
+2015,"Pennsylvania","Northeast",1706
+2016,"Pennsylvania","Northeast",1492
+2017,"Pennsylvania","Northeast",1628
+2018,"Pennsylvania","Northeast",1730
+2019,"Pennsylvania","Northeast",1681
+2020,"Pennsylvania","Northeast",1268
+2021,"Pennsylvania","Northeast",1722
+2022,"Pennsylvania","Northeast",2437
+2015,"District of Columbia","Northeast",1706
+2016,"District of Columbia","Northeast",1492
+2017,"District of Columbia","Northeast",1628
+2018,"District of Columbia","Northeast",1730
+2019,"District of Columbia","Northeast",1681
+2020,"District of Columbia","Northeast",1268
+2021,"District of Columbia","Northeast",1722
+2022,"District of Columbia","Northeast",2437
+2015,"Delaware","Northeast",1706
+2016,"Delaware","Northeast",1492
+2017,"Delaware","Northeast",1628
+2018,"Delaware","Northeast",1730
+2019,"Delaware","Northeast",1681
+2020,"Delaware","Northeast",1268
+2021,"Delaware","Northeast",1722
+2022,"Delaware","Northeast",2437
+2015,"Maryland","Northeast",1706
+2016,"Maryland","Northeast",1492
+2017,"Maryland","Northeast",1628
+2018,"Maryland","Northeast",1730
+2019,"Maryland","Northeast",1681
+2020,"Maryland","Northeast",1268
+2021,"Maryland","Northeast",1722
+2022,"Maryland","Northeast",2437
+2015,"Virginia","Northeast",1706
+2016,"Virginia","Northeast",1492
+2017,"Virginia","Northeast",1628
+2018,"Virginia","Northeast",1730
+2019,"Virginia","Northeast",1681
+2020,"Virginia","Northeast",1268
+2021,"Virginia","Northeast",1722
+2022,"Virginia","Northeast",2437
+2015,"West Virginia","Northeast",1706
+2016,"West Virginia","Northeast",1492
+2017,"West Virginia","Northeast",1628
+2018,"West Virginia","Northeast",1730
+2019,"West Virginia","Northeast",1681
+2020,"West Virginia","Northeast",1268
+2021,"West Virginia","Northeast",1722
+2022,"West Virginia","Northeast",2437
+2015,"Ohio","Midwest",1886
+2016,"Ohio","Midwest",1695
+2017,"Ohio","Midwest",1724
+2018,"Ohio","Midwest",1864
+2019,"Ohio","Midwest",1803
+2020,"Ohio","Midwest",1414
+2021,"Ohio","Midwest",1896
+2022,"Ohio","Midwest",2660
+2015,"Indiana","Midwest",1886
+2016,"Indiana","Midwest",1695
+2017,"Indiana","Midwest",1724
+2018,"Indiana","Midwest",1864
+2019,"Indiana","Midwest",1803
+2020,"Indiana","Midwest",1414
+2021,"Indiana","Midwest",1896
+2022,"Indiana","Midwest",2660
+2015,"Michigan","Midwest",1886
+2016,"Michigan","Midwest",1695
+2017,"Michigan","Midwest",1724
+2018,"Michigan","Midwest",1864
+2019,"Michigan","Midwest",1803
+2020,"Michigan","Midwest",1414
+2021,"Michigan","Midwest",1896
+2022,"Michigan","Midwest",2660
+2015,"Illinois","Midwest",1886
+2016,"Illinois","Midwest",1695
+2017,"Illinois","Midwest",1724
+2018,"Illinois","Midwest",1864
+2019,"Illinois","Midwest",1803
+2020,"Illinois","Midwest",1414
+2021,"Illinois","Midwest",1896
+2022,"Illinois","Midwest",2660
+2015,"Wisconsin","Midwest",1886
+2016,"Wisconsin","Midwest",1695
+2017,"Wisconsin","Midwest",1724
+2018,"Wisconsin","Midwest",1864
+2019,"Wisconsin","Midwest",1803
+2020,"Wisconsin","Midwest",1414
+2021,"Wisconsin","Midwest",1896
+2022,"Wisconsin","Midwest",2660
+2015,"Minnesota","Midwest",1886
+2016,"Minnesota","Midwest",1695
+2017,"Minnesota","Midwest",1724
+2018,"Minnesota","Midwest",1864
+2019,"Minnesota","Midwest",1803
+2020,"Minnesota","Midwest",1414
+2021,"Minnesota","Midwest",1896
+2022,"Minnesota","Midwest",2660
+2015,"Iowa","Midwest",1886
+2016,"Iowa","Midwest",1695
+2017,"Iowa","Midwest",1724
+2018,"Iowa","Midwest",1864
+2019,"Iowa","Midwest",1803
+2020,"Iowa","Midwest",1414
+2021,"Iowa","Midwest",1896
+2022,"Iowa","Midwest",2660
+2015,"Missouri","Midwest",1886
+2016,"Missouri","Midwest",1695
+2017,"Missouri","Midwest",1724
+2018,"Missouri","Midwest",1864
+2019,"Missouri","Midwest",1803
+2020,"Missouri","Midwest",1414
+2021,"Missouri","Midwest",1896
+2022,"Missouri","Midwest",2660
+2015,"North Dakota","Midwest",1886
+2016,"North Dakota","Midwest",1695
+2017,"North Dakota","Midwest",1724
+2018,"North Dakota","Midwest",1864
+2019,"North Dakota","Midwest",1803
+2020,"North Dakota","Midwest",1414
+2021,"North Dakota","Midwest",1896
+2022,"North Dakota","Midwest",2660
+2015,"South Dakota","Midwest",1886
+2016,"South Dakota","Midwest",1695
+2017,"South Dakota","Midwest",1724
+2018,"South Dakota","Midwest",1864
+2019,"South Dakota","Midwest",1803
+2020,"South Dakota","Midwest",1414
+2021,"South Dakota","Midwest",1896
+2022,"South Dakota","Midwest",2660
+2015,"Nebraska","Midwest",1886
+2016,"Nebraska","Midwest",1695
+2017,"Nebraska","Midwest",1724
+2018,"Nebraska","Midwest",1864
+2019,"Nebraska","Midwest",1803
+2020,"Nebraska","Midwest",1414
+2021,"Nebraska","Midwest",1896
+2022,"Nebraska","Midwest",2660
+2015,"Kansas","Midwest",1886
+2016,"Kansas","Midwest",1695
+2017,"Kansas","Midwest",1724
+2018,"Kansas","Midwest",1864
+2019,"Kansas","Midwest",1803
+2020,"Kansas","Midwest",1414
+2021,"Kansas","Midwest",1896
+2022,"Kansas","Midwest",2660
+2015,"North Carolina","South",1955
+2016,"North Carolina","South",1800
+2017,"North Carolina","South",1798
+2018,"North Carolina","South",1951
+2019,"North Carolina","South",1923
+2020,"North Carolina","South",1473
+2021,"North Carolina","South",1952
+2022,"North Carolina","South",2887
+2015,"South Carolina","South",1955
+2016,"South Carolina","South",1800
+2017,"South Carolina","South",1798
+2018,"South Carolina","South",1951
+2019,"South Carolina","South",1923
+2020,"South Carolina","South",1473
+2021,"South Carolina","South",1952
+2022,"South Carolina","South",2887
+2015,"Georgia","South",1955
+2016,"Georgia","South",1800
+2017,"Georgia","South",1798
+2018,"Georgia","South",1951
+2019,"Georgia","South",1923
+2020,"Georgia","South",1473
+2021,"Georgia","South",1952
+2022,"Georgia","South",2887
+2015,"Florida","South",1955
+2016,"Florida","South",1800
+2017,"Florida","South",1798
+2018,"Florida","South",1951
+2019,"Florida","South",1923
+2020,"Florida","South",1473
+2021,"Florida","South",1952
+2022,"Florida","South",2887
+2015,"Kentucky","South",1955
+2016,"Kentucky","South",1800
+2017,"Kentucky","South",1798
+2018,"Kentucky","South",1951
+2019,"Kentucky","South",1923
+2020,"Kentucky","South",1473
+2021,"Kentucky","South",1952
+2022,"Kentucky","South",2887
+2015,"Tennessee","South",1955
+2016,"Tennessee","South",1800
+2017,"Tennessee","South",1798
+2018,"Tennessee","South",1951
+2019,"Tennessee","South",1923
+2020,"Tennessee","South",1473
+2021,"Tennessee","South",1952
+2022,"Tennessee","South",2887
+2015,"Alabama","South",1955
+2016,"Alabama","South",1800
+2017,"Alabama","South",1798
+2018,"Alabama","South",1951
+2019,"Alabama","South",1923
+2020,"Alabama","South",1473
+2021,"Alabama","South",1952
+2022,"Alabama","South",2887
+2015,"Mississippi","South",1955
+2016,"Mississippi","South",1800
+2017,"Mississippi","South",1798
+2018,"Mississippi","South",1951
+2019,"Mississippi","South",1923
+2020,"Mississippi","South",1473
+2021,"Mississippi","South",1952
+2022,"Mississippi","South",2887
+2015,"Arkansas","South",1955
+2016,"Arkansas","South",1800
+2017,"Arkansas","South",1798
+2018,"Arkansas","South",1951
+2019,"Arkansas","South",1923
+2020,"Arkansas","South",1473
+2021,"Arkansas","South",1952
+2022,"Arkansas","South",2887
+2015,"Louisiana","South",1955
+2016,"Louisiana","South",1800
+2017,"Louisiana","South",1798
+2018,"Louisiana","South",1951
+2019,"Louisiana","South",1923
+2020,"Louisiana","South",1473
+2021,"Louisiana","South",1952
+2022,"Louisiana","South",2887
+2015,"Oklahoma","South",1955
+2016,"Oklahoma","South",1800
+2017,"Oklahoma","South",1798
+2018,"Oklahoma","South",1951
+2019,"Oklahoma","South",1923
+2020,"Oklahoma","South",1473
+2021,"Oklahoma","South",1952
+2022,"Oklahoma","South",2887
+2015,"Texas","South",1955
+2016,"Texas","South",1800
+2017,"Texas","South",1798
+2018,"Texas","South",1951
+2019,"Texas","South",1923
+2020,"Texas","South",1473
+2021,"Texas","South",1952
+2022,"Texas","South",2887
+2015,"Montana","West",2050
+2016,"Montana","West",1921
+2017,"Montana","West",2002
+2018,"Montana","West",2118
+2019,"Montana","West",2175
+2020,"Montana","West",1571
+2021,"Montana","West",2161
+2022,"Montana","West",3076
+2015,"Idaho","West",2050
+2016,"Idaho","West",1921
+2017,"Idaho","West",2002
+2018,"Idaho","West",2118
+2019,"Idaho","West",2175
+2020,"Idaho","West",1571
+2021,"Idaho","West",2161
+2022,"Idaho","West",3076
+2015,"Wyoming","West",2050
+2016,"Wyoming","West",1921
+2017,"Wyoming","West",2002
+2018,"Wyoming","West",2118
+2019,"Wyoming","West",2175
+2020,"Wyoming","West",1571
+2021,"Wyoming","West",2161
+2022,"Wyoming","West",3076
+2015,"Colorado","West",2050
+2016,"Colorado","West",1921
+2017,"Colorado","West",2002
+2018,"Colorado","West",2118
+2019,"Colorado","West",2175
+2020,"Colorado","West",1571
+2021,"Colorado","West",2161
+2022,"Colorado","West",3076
+2015,"New Mexico","West",2050
+2016,"New Mexico","West",1921
+2017,"New Mexico","West",2002
+2018,"New Mexico","West",2118
+2019,"New Mexico","West",2175
+2020,"New Mexico","West",1571
+2021,"New Mexico","West",2161
+2022,"New Mexico","West",3076
+2015,"Arizona","West",2050
+2016,"Arizona","West",1921
+2017,"Arizona","West",2002
+2018,"Arizona","West",2118
+2019,"Arizona","West",2175
+2020,"Arizona","West",1571
+2021,"Arizona","West",2161
+2022,"Arizona","West",3076
+2015,"Utah","West",2050
+2016,"Utah","West",1921
+2017,"Utah","West",2002
+2018,"Utah","West",2118
+2019,"Utah","West",2175
+2020,"Utah","West",1571
+2021,"Utah","West",2161
+2022,"Utah","West",3076
+2015,"Nevada","West",2050
+2016,"Nevada","West",1921
+2017,"Nevada","West",2002
+2018,"Nevada","West",2118
+2019,"Nevada","West",2175
+2020,"Nevada","West",1571
+2021,"Nevada","West",2161
+2022,"Nevada","West",3076
+2015,"Washington","West",2050
+2016,"Washington","West",1921
+2017,"Washington","West",2002
+2018,"Washington","West",2118
+2019,"Washington","West",2175
+2020,"Washington","West",1571
+2021,"Washington","West",2161
+2022,"Washington","West",3076
+2015,"Oregon","West",2050
+2016,"Oregon","West",1921
+2017,"Oregon","West",2002
+2018,"Oregon","West",2118
+2019,"Oregon","West",2175
+2020,"Oregon","West",1571
+2021,"Oregon","West",2161
+2022,"Oregon","West",3076
+2015,"California","West",2050
+2016,"California","West",1921
+2017,"California","West",2002
+2018,"California","West",2118
+2019,"California","West",2175
+2020,"California","West",1571
+2021,"California","West",2161
+2022,"California","West",3076
+2015,"Alaska","West",2050
+2016,"Alaska","West",1921
+2017,"Alaska","West",2002
+2018,"Alaska","West",2118
+2019,"Alaska","West",2175
+2020,"Alaska","West",1571
+2021,"Alaska","West",2161
+2022,"Alaska","West",3076
+2015,"Hawaii","West",2050
+2016,"Hawaii","West",1921
+2017,"Hawaii","West",2002
+2018,"Hawaii","West",2118
+2019,"Hawaii","West",2175
+2020,"Hawaii","West",1571
+2021,"Hawaii","West",2161
+2022,"Hawaii","West",3076
